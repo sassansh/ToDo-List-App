@@ -7,7 +7,7 @@
   <h2 align="center">InsightUBC ✨</h2>
 
   <p align="center">
-    A ToDo list manager application built in Java. (JUnit Testing, UML, Exceptions, OOP, Data Flow, Abastraction). Completed as an academic project for UBC CPSC 210.
+    A ToDo list manager application built in Java. (JUnit Testing, UML, Exceptions, OOP, Data Flow, Abastraction). Built as a term project for UBC CPSC 210 (Software Construction).
     <br />
     <br />
     <a href="https://sassanshokoohi.ca">About Me</a>
