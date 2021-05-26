@@ -36,7 +36,7 @@
 
 ## Technology Stack 🛠️
 
-| [Java](https://www.java.com/en/)
+[Java](https://www.java.com/en/)
 | [JavaFX](https://openjfx.io/)
 
 ## Prerequisites 🍪
