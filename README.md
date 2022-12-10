@@ -4,7 +4,7 @@
  <a href="https://github.com/sassansh/ToDo-List-App">
     <img src="/images/logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h2 align="center">InsightUBC ✨</h2>
+  <h2 align="center">To Do List Manager App ✨</h2>
 
   <p align="center">
     A ToDo list manager application built in Java. (JUnit Testing, UML, Exceptions, OOP, Data Flow, Abastraction). Built as a term project for UBC CPSC 210 (Software Construction).
